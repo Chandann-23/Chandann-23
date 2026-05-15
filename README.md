@@ -1,4 +1,4 @@
-# CHANDAN | AI/ML & Full-Stack Systems 🤖
+# CHANDAN PO | AI/ML & Full-Stack Systems 🤖
 
 
 ### 🟢 Status: Deploying Autonomous Solutions
