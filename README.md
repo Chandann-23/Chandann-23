@@ -1,10 +1,5 @@
-# 0xCHANDAN | AI/ML & Full-Stack Systems 🤖
+# CHANDAN | AI/ML & Full-Stack Systems 🤖
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandann-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-
----
 
 ### 🟢 Status: Deploying Autonomous Solutions
 I am an **AI/ML Engineer** focused on building agentic workflows, DevOps-driven SRE systems, and full-stack AI platforms. Currently specializing in AIML at Presidency University.
