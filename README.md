@@ -37,8 +37,8 @@ I am an **AI/ML Engineer** focused on building agentic workflows, DevOps-driven 
 
 ### 📊 Activity Metrics
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandann-23&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandann-23&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
