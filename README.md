@@ -2,7 +2,7 @@
 
 
 ### 🟢 Status: Deploying Autonomous Solutions
-I am an **AI/ML Engineer** focused on building agentic workflows, DevOps-driven SRE systems, and full-stack AI platforms. Currently specializing in AIML at Presidency University.
+I am an **AI/ML Engineer** focused on building agentic workflows, machine learning, and full-stack AI platforms. Currently specializing in AIML at Presidency University.
 
 - 🚀 **Latest Milestone:** Successfully completed and deployed **ASTRA Intelligence**.
 - 🛠️ **Current Focus:** Scaling **CORE SRE** (Autonomous Repair Logic) and MLOps pipelines.
