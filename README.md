@@ -1,36 +1,78 @@
-# CHANDAN PO | AI/ML & Full-Stack Systems 🤖
+# 👋 Hi, I'm Chandan Po
 
+### 🤖 AI Engineer | Full-Stack Developer | MLOps Enthusiast
+**Building Autonomous Solutions & Intelligent Systems That Scale**
 
-### 🟢 Status: Deploying Autonomous Solutions
-I am an **AI/ML Engineer** focused on building agentic workflows, machine learning, and full-stack AI platforms. Currently specializing in AIML at Presidency University.
-
-- 🚀 **Latest Milestone:** Successfully completed and deployed **ASTRA Intelligence**.
-- 🛠️ **Current Focus:** Scaling **CORE SRE** (Autonomous Repair Logic) and MLOps pipelines.
-- 🧠 **Tech Stack:** Python | FastAPI | LangGraph | Docker | React | Streamlit.
-
----
-
-### 📂 Featured Systems
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **ASTRA Intelligence** | Full-stack AI platform with RAG & Agentic Workflows | `FastAPI` `LangChain` |
-| **CORE SRE** | Autonomous Site Reliability system with dual-phase repair | `LangGraph` `DevOps` |
-| **Neuro Linker** | Software-based resume analyzer & neural ranking | `Streamlit` `Python` |
-| **AXON Engine** | Predictive modeling and performance analytics | `ML` `NumPy` |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](your-linkedin-link)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Chandann-23)
 
 ---
 
-### ⚡ Technical Arsenal
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+## 🚀 About Me
+
+I'm a **Computer Science Engineer specializing in Artificial Intelligence & Machine Learning** at Presidency University. My core focus lies at the intersection of agentic workflows, scalable data applications, and automated operations—bridging the gap between cutting-edge ML models and robust production systems.
+
+With hands-on experience in:
+*   🧠 **Agentic Workflows & Multi-Agent Logic** (LangGraph, LangChain)
+*   🌐 **Full-Stack AI Platform Architecture** (FastAPI, React)
+*   🛠️ **MLOps & Autonomous Systems** (Site Reliability Engineering, Docker)
+*   📊 **Predictive Analytics & Specialized Data Apps** (Streamlit, NumPy)
+
+I design end-to-end software solutions—from data preprocessing and model training to automated dual-phase backend repairs and intuitive, dark-mode user interfaces.
+
+📍 **Based in:** Bengaluru, India
+⚡ **Latest Milestone:** Successfully completed and deployed **ASTRA Intelligence**, a full-stack AI platform featuring RAG feeds and live monitoring.
+🚀 **Current Focus:** Scaling **CORE SRE** autonomous repair systems and hardening deployment pipelines.
 
 ---
 
-### 📊 Activity Metrics
+## 📂 Featured Systems
+
+### 🌌 ASTRA Intelligence
+> **Full-Stack Platform & RAG Workflow**
+> Deployed a comprehensive multi-agent workspace integrating advanced retrieval-augmented generation and reactive, glassmorphism-styled dashboard elements.
+> `FastAPI` `LangChain` `React` `TailwindCSS`
+
+### 🛡️ CORE SRE
+> **Autonomous Site Reliability System**
+> Built an autonomous infrastructure recovery layer utilizing LangGraph and FastAPI architecture for intelligent, dual-phase system repair logic.
+> `LangGraph` `FastAPI` `DevOps` `Docker`
+
+### 🛍️ Aetheris
+> **E-Commerce Web Application (Inamigos Foundation)**
+> Developed and deployed a robust, sample online e-commerce platform, focusing on seamless user workflows, product catalog rendering, and responsive end-to-end interface logic.
+> `React` `Node.js` `Full-Stack` `Web Development`
+
+### ⚡ AXON Engine
+> **Predictive Modeling Analytics**
+> Built a high-performance data engine executing algorithmic predictions and core operational analytics with specialized performance modeling.
+> `Machine Learning` `NumPy` `Python` `Streamlit`
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 AI/ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### ⚙️ Backend, Orchestration & DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### 🎨 Frontend & Design Systems
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📊 Activity Metrics
+
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandann-23&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandann-23&theme=tokyonight&hide_border=true&background=0D1117" />
