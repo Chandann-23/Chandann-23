@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandan Po
+# 👋 Hi, I'm Chandan PO
 
 ### 🤖 AI Engineer | Full-Stack Developer | MLOps Enthusiast
 **Building Autonomous Solutions & Intelligent Systems That Scale**
